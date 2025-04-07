@@ -50,14 +50,20 @@
     justify-content: center; 
   }
   .image-style2{
-    width: 500px;
-    height: 500px;
+    width: 480px;
+    height: 480px;
     align-items: center;
     justify-content: center; 
   }
   .image-myself{
-    width: 380px;
-    height: 500px;
+    width: 360px;
+    height: 420px;
+    align-items: center;
+    justify-content: center; 
+  }
+  .image-style3{
+    width: 500px;
+    height: 380px;
     align-items: center;
     justify-content: center; 
   }

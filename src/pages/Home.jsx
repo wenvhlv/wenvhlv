@@ -80,7 +80,7 @@ function Home() {
             <li>Tools& Technologies: Python, OpenCV, Scikit-learn, Matplotlib, Machine Learning, Image Processing, Computer Vision.</li>
             </ul>
         </div>
-        <div className="image right"><img src={InternImg} alt="Description" className="image-style2"/></div>
+        <div className="image right"><img src={InternImg} alt="Description" className="image-style3"/></div>
       </section>
 
       
