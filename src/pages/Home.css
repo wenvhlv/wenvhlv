@@ -218,7 +218,7 @@ a:hover {
   .image-myself,
   .image-style3 {
     margin-bottom: 1rem; /* Add space below images */
-    max-width: 100%; /* Make images take up 100% of their container's width */
+    max-width: 80%; /* Make images take up 100% of their container's width */
     height: auto; /* Maintain aspect ratio */
   }
 }
