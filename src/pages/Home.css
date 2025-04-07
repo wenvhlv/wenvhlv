@@ -47,20 +47,20 @@
 }
 
 .image-style {
-  width: 100%; /* Make images responsive */
-  max-width: 600px; /* Keep a max-width for larger screens */
+  width: 95%; /* Make images responsive */
+  max-width: 500px; /* Keep a max-width for larger screens */
   height: auto;
 }
 
 .image-style2 {
-  width: 100%; /* Make images responsive */
-  max-width: 480px; /* Keep a max-width for larger screens */
+  width: 95%; /* Make images responsive */
+  max-width: 460px; /* Keep a max-width for larger screens */
   height: auto;
 }
 
 .image-myself {
-  width: 100%; /* Make images responsive */
-  max-width: 360px; /* Keep a max-width for larger screens */
+  width: 95%; /* Make images responsive */
+  max-width: 340px; /* Keep a max-width for larger screens */
   height: auto;
 }
 
@@ -218,6 +218,6 @@ a:hover {
   .image-myself,
   .image-style3 {
     max-width: 70%; /* Make images take up 100% of their container's width */
-    max-height: 70%; /* Maintain aspect ratio */
+    height: auto; /* Maintain aspect ratio */
   }
 }
