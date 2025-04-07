@@ -10,7 +10,7 @@ import InternImg from './internship.jpg';
 function Home() {
   return (
     <div className="home-container">
-      <h1 className="head">🧑‍💻 Learn More About Me!</h1>
+      <h1 className="head">🧑‍💻 Know More About Me!</h1>
       {/* Intro Section */}
       <section className="section light">
         <div className="content left">
