@@ -55,11 +55,11 @@ function Home() {
               8.41/10, Year:2015-19
             </li>
             <li>
-              Intermediate(Class 12th), PCM- UP Board, Percentage:83.20%,
+              Intermediate(Class 12th), PCM- State Board, Percentage:83.20%,
               Year:2013
             </li>
             <li>
-              Highschool(Class 12th), Science- UP Board, Percentage:77.50%,
+              Highschool(Class 12th), Science- State Board, Percentage:77.50%,
               Year:2011
             </li>
           </ul>
@@ -87,8 +87,7 @@ function Home() {
               Flask, Firebase
             </li>
             <li>
-              <strong>Domains & Expertise:</strong> Machine Learning, Deep
-              Learning, DevOps, Web Development
+              <strong>Domains & Expertise:</strong> Machine Learning, Deep Learning, DevOps, Web Development, Data Structure& Algorithm(DSA), Mathematics
             </li>
           </ul>
         </div>
