@@ -177,7 +177,7 @@ function Home() {
           <h2>2. End to End Portfolio Website</h2>
           <h3>
             Developed and deployed a personal website as a creative outlet for my
-            interests and projects.
+            projects, experiences and other details.
           </h3>
           <ul>
             <li>
@@ -211,7 +211,7 @@ function Home() {
         </div>
 
         <div className="project-right">
-          <h2>4. Graph Sparsification for Dynamic Matching</h2>
+          <h2>4. Designed a new Graph Sparsification Algorithm for Dynamic Matching Problem</h2>
           <h3>IIT Ropar, M.Tech(CSE) Thesis Research Project</h3>
           <ul>
             <li>
