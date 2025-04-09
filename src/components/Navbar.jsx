@@ -42,7 +42,7 @@ function Navbar() {
     <div className="text-info">
       <h1 className="name">HANUMAT LAL VISHWAKARMA</h1>
       <p className="tagline">Software Engineer @Rakuten Group Inc. Tokyo, Japan</p>
-      <p>Founder @IITJEE MATHX (visit here: <a href="https://www.iitjeemathx.com/">https://www.iitjeemathx.com/</a>)</p>
+      <p>Founder @IITJEE MATHX (visit my website: <a href="https://www.iitjeemathx.com/">https://www.iitjeemathx.com/</a>)</p>
       <a href="https://www.linkedin.com/in/hlvcse/" target="_blank" rel="noopener noreferrer">
         <button className="contact-button">Visit my LinkedIn Page</button>
       </a>
