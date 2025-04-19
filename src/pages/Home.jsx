@@ -55,11 +55,11 @@ function Home() {
               8.41/10, Year:2015-19
             </li>
             <li>
-              Intermediate(Class 12th), PCM- State Board, Percentage:83.20%,
+              Intermediate(12th), PCM- State Board, Percentage:83.20%,
               Year:2013
             </li>
             <li>
-              Highschool(Class 12th), Science- State Board, Percentage:77.50%,
+              Highschool(10th), Science, Mathematics- State Board, Percentage:77.50%,
               Year:2011
             </li>
           </ul>
