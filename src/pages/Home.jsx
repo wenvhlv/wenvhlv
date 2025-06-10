@@ -79,7 +79,7 @@ function Home() {
               Seaborn, SciPy, Scikit-learn, PyTorch, TensorFlow
             </li>
             <li>
-              <strong>DevOps & Cloud Tools:</strong> Linux, Azure, Jenkins, Chef, Cinc, Ruby ,ADX, KQL, Git, GitHub
+              <strong>DevOps & Cloud Tools:</strong> Linux, Azure, Jenkins, Chef, Cinc, Ruby ,ADX, KQL, Prometheus, Pagerduty, Git, GitHub
             </li>
             <li>
               <strong>Web Development:</strong> HTML, CSS, JavaScript, React.js,
