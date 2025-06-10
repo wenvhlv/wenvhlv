@@ -79,8 +79,7 @@ function Home() {
               Seaborn, SciPy, Scikit-learn, PyTorch, TensorFlow
             </li>
             <li>
-              <strong>DevOps & Cloud Tools:</strong> Linux, Azure, Jenkins, Docker,
-              Kubernetes, Git, GitHub
+              <strong>DevOps & Cloud Tools:</strong> Linux, Azure, Jenkins, Chef, Cinc, Ruby , Git, GitHub
             </li>
             <li>
               <strong>Web Development:</strong> HTML, CSS, JavaScript, React.js,
@@ -109,11 +108,11 @@ function Home() {
             <li>
               Resposibilities: Managing Linux servers, Server Creation, Server
               Decommissioning, SSL certficate create/renew, Disk Resize Request,
-              Cookbook Update, etc.
+              Managing Cookbooks, Alert handling/silencing, Monitoring,..etc.
             </li>
             <li>
-              Tools& Technologies: Python, Linux, Azure, KQL, Chef, Ruby, Jenkins,
-              Docker, Kubernetes, Jira, Confluence, DOMO- Data Visualization.
+              Tools& Technologies: Python, Linux, Bash, Azure, KQL, Chef, Ruby, Jenkins,
+              Prometheus, Pagerduty, Jira, Confluence, DOMO- Data Visualization.
             </li>
           </ul>
         </div>
@@ -145,7 +144,43 @@ function Home() {
       {/* Projects Section */}
       <section className="project-section">
         <div className="project-left">
-          <h2>1. End to End Website - IITJEE MATHX</h2>
+          <h2>1. Create an ADX Alert and integrate it to PagerDuty</h2>
+          <h3>Rakuen Group Inc. Tokyo, Japan</h3>
+          <ul>
+            <li>
+              <strong>Tools& Technologies: </strong>Kusto Query Language(KQL),
+              Azure, ADX, PagerDuty
+            </li>
+            <li>
+              <strong>Description: </strong>Creating a Custom Log Search-Based
+              Azure Monitor Alert for Azure Data Explorer(ADX) and Integrate to
+              PagerDuty for automated incident notifications and management.
+            </li>
+          </ul>
+        </div>
+
+        <div className="project-right">
+          <h2>2. Designed a new Graph Sparsification Algorithm for Dynamic Matching Problem</h2>
+          <h3>IIT Ropar, M.Tech(CSE) Thesis Research Project</h3>
+          <ul>
+            <li>
+              <strong>Tools& Technologies: </strong>Dynamic Graph data structure,
+              Dynamic maximum matching Problem, Splay Tree, C/C++
+            </li>
+            <li>
+              <strong>Description: </strong>Designed a new deterministic graph
+              sparsification algorithm for dyanamic fractional matching without
+              loosing much on size of fractional matching. Also implemented using
+              C/C++ and tested on both small and large sample of graph.
+            </li>
+          </ul>
+        </div>
+      </section>
+
+
+      <section className="project-section">
+        <div className="project-left">
+          <h2>3. End to End Website - IITJEE MATHX</h2>
           <h3>
             Independently developed and deployed the IITJEE MATHX for my teaching
             passion.
@@ -173,7 +208,7 @@ function Home() {
         </div>
 
         <div className="project-right">
-          <h2>2. End to End Portfolio Website</h2>
+          <h2>4. End to End Portfolio Website</h2>
           <h3>
             Developed and deployed a personal website as a creative outlet for my
             projects, experiences and other details.
@@ -191,42 +226,37 @@ function Home() {
           </ul>
         </div>
       </section>
+           
 
-      <section className="project-section">
+        <section className="project-section">
         <div className="project-left">
-          <h2>3. Create an ADX Alert and integrate it to PagerDuty</h2>
-          <h3>Rakuen Group Inc. Tokyo, Japan</h3>
+          <h2>5. Exploring Issues in Set-Based Partitioning from Last-level Cache</h2>
+          <h3>IIT Ropar, Research Project</h3>
           <ul>
             <li>
-              <strong>Tools& Technologies: </strong>Kusto Query Language(KQL),
-              Azure, ADX, PagerDuty
+              <strong>Tools& Technologies: </strong>C/C++, Champsim Simulator, Memory Systems & Architecture, Research paper survey
             </li>
             <li>
-              <strong>Description: </strong>Creating a Custom Log Search-Based
-              Azure Monitor Alert for Azure Data Explorer(ADX) and Integrate to
-              PagerDuty for automated incident notifications and management.
+              <strong>Description: </strong> A Research Project, Read various research papers related to cache replacement policies and cache partitioning. Imple-
+mented: static and dynamic set-based partitioning on last-level-cache memory in the champs simulator. Found three
+limitations in set-based partitioning.
             </li>
           </ul>
         </div>
 
         <div className="project-right">
-          <h2>4. Designed a new Graph Sparsification Algorithm for Dynamic Matching Problem</h2>
-          <h3>IIT Ropar, M.Tech(CSE) Thesis Research Project</h3>
+          <h2>6. Stay tuned..I'll update soon</h2>
+          <h3>Location:</h3>
           <ul>
             <li>
-              <strong>Tools& Technologies: </strong>Dynamic Graph data structure,
-              Dynamic maximum matching Problem, Splay Tree, C/C++
+              <strong>Tools& Technologies: </strong>
             </li>
             <li>
-              <strong>Description: </strong>Designed a new deterministic graph
-              sparsification algorithm for dyanamic fractional matching without
-              loosing much on size of fractional matching. Also implemented using
-              C/C++ and tested on both small and large sample of graph.
+              <strong>Description: </strong>
             </li>
           </ul>
         </div>
       </section>
-
       {/* footer */}
       <footer className="footer">
         <div className="footer-content">
