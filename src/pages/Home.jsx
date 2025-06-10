@@ -79,7 +79,7 @@ function Home() {
               Seaborn, SciPy, Scikit-learn, PyTorch, TensorFlow
             </li>
             <li>
-              <strong>DevOps & Cloud Tools:</strong> Linux, Azure, Jenkins, Chef, Cinc, Ruby , Git, GitHub
+              <strong>DevOps & Cloud Tools:</strong> Linux, Azure, Jenkins, Chef, Cinc, Ruby ,ADX, KQL, Git, GitHub
             </li>
             <li>
               <strong>Web Development:</strong> HTML, CSS, JavaScript, React.js,
@@ -111,7 +111,7 @@ function Home() {
               Managing Cookbooks, Alert handling/silencing, Monitoring,..etc.
             </li>
             <li>
-              Tools& Technologies: Python, Linux, Bash, Azure, KQL, Chef, Ruby, Jenkins,
+              Tools& Technologies: Python, Linux, Bash, Azure, KQL, Chef, Cinc, Ruby, Jenkins,
               Prometheus, Pagerduty, Jira, Confluence, DOMO- Data Visualization.
             </li>
           </ul>
